@@ -1,3 +1,9 @@
+
+# Solution inspired from Mereck's posted on LeetCode
+# Threads discovered for the first time...
+
+from threading import Semaphore
+
 class ZeroEvenOdd(object):
     """
     1116. Print Zero Even Odd
@@ -19,6 +25,10 @@ class ZeroEvenOdd(object):
 
     def __init__(self, n):
         self.n = n
+        self.cnt = 0
+        self.gates = [Semaphore(), Semaphore(), Semaphore()]
+        self.gates[0].acquire()
+        self.gates[1].acquire()
         
         
 	# printNumber(x) outputs "x", where x is an integer.
@@ -27,14 +37,22 @@ class ZeroEvenOdd(object):
         :type printNumber: method
         :rtype: void
         """
-        
-        
+        for _ in range(self.n):
+            self.gates[2].acquire()
+            printNumber(0)
+            self.cnt += 1
+            self.gates[self.cnt % 2].release()
+
         
     def even(self, printNumber):
         """
         :type printNumber: method
         :rtype: void
         """
+        for _ in range(self.n//2):
+            self.gates[0].acquire()
+            printNumber(self.cnt)
+            self.gates[2].release()
         
         
         
@@ -43,5 +61,9 @@ class ZeroEvenOdd(object):
         :type printNumber: method
         :rtype: void
         """
+        for _ in range((self.n+1)//2):
+            self.gates[1].acquire()
+            printNumber(self.cnt)
+            self.gates[2].release()
         
         
