@@ -34,36 +34,46 @@ class Solution(object):
 
         # 3. Keep track of filled cells in the "answers" matrix
         filled = [[False] * n for _ in range(m)]
-        
-        # 3. Filling up the "answers" matrix
-        for i, j in order:
 
+        # 4. Get the max rank following a certain column and row
+        def get_max_rank(i, j):
+            max = 0
+            v = matrix[i][j]
+            for k in range(m):  # Column j
+                if matrix[k][j] != v:
+                    if answers[k][j] > max:
+                        max = answers[k][j]
+            for l in range(n):  # Row i
+                if matrix[i][l] != v:
+                    if answers[i][l] > max:
+                        max = answers[i][l]
+            return max
+        
+        # 5. Filling up the "answers" matrix
+        c = 0
+        while c < n * m:
+            
+            i, j = order[c] # current cell indices
             val = matrix[i][j]
 
-            ind_of_same = [(i,j)]
+            if not filled[i][j]:
+                counter = 1
+                while c + counter < n * m and matrix[order[c + counter][0]][order[c + counter][1]] == val:
+                    counter += 1
 
-            max_rank = 0
+                max_rank = 0
+                
+                for curr in range(c, c+counter):
+                    max_rank = max(max_rank, get_max_rank(order[curr][0], order[curr][1]))
 
-            for k in range(m):  # Check Column
-                if k != i:
-                    if filled[k][j] and matrix[k][j] == val:    # same value already present in the column ?
-                        ind_of_same.append((k, j))
-                    elif answers[k][j] > max_rank:
-                        max_rank = answers[k][j]
+                for curr in range(c, c+counter):
+                    answers[order[curr][0]][order[curr][1]] = max_rank + 1
+                    filled[order[curr][0]][order[curr][1]] = True
             
-            for l in range(n):  # Check Row
-                if l != j:
-                    if filled[i][l] and matrix[i][l] == val:    # same value already present in the column ?
-                        ind_of_same.append((i, l))
-                    elif answers[i][l] > max_rank:
-                        max_rank = answers[i][l]
-
-            for k, l in ind_of_same:
-                answers[k][l] = max(max_rank + 1, answers[ind_of_same[-1][0]][ind_of_same[-1][1]])
-            filled[i][j] = True
+            c += counter
         
         return answers
     
 
 sol = Solution()
-print(sol.matrixRankTransform([[-37,-50,-3,44],[-37,46,13,-32],[47,-42,-3,-40],[-17,-22,-39,24]]))
+print(sol.matrixRankTransform([[-37,-26,-47,-40,-13],[22,-11,-44,47,-6],[-35,8,-45,34,-31],[-16,23,-6,-43,-20],[47,38,-27,-8,43]]))
