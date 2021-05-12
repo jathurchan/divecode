@@ -36,6 +36,8 @@ class Solution(object):
             diff = l_bfs[i+1]-l_bfs[i]
             if diff < min_diff:
                 min_diff = diff
+        
+        return min_diff
 
 
         
