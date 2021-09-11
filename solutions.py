@@ -53,6 +53,45 @@ class Solution(object):
                     next_pos += 1
 
         return nOfArithSub
+    
+    #   224. Basic Calculator
+    def calculate(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        
+        number = 0  # to store the whole number (read digit by digit)
+        result = 0  # store result after computation
+        sign = 1    # sign of the result
+
+        stack = [sign]  # used for parentheses
+
+        for i in range(len(s)):
+            
+            c = s[i]
+
+            if c >= '0' and c <= '9':
+                number = number * 10 + int(c)
+            
+            elif c == '+' or c == '-':
+                result += sign * number
+                if c == '+':    # if + in front of the last opening parenthesis
+                    sign = stack[-1]
+                else:           # if -
+                    sign = stack[-1] * -1
+                number = 0
+            
+            elif c == '(':
+                stack.append(sign)
+            
+            elif c == ')':
+                stack.pop()
+        
+        result += sign * number
+        return result
+
+        
 
 
 solution = Solution()
