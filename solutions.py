@@ -90,6 +90,41 @@ class Solution(object):
         
         result += sign * number
         return result
+    
+    #   1189. Maximum Number of Balloons
+    def maxNumberOfBalloons(self, text):
+        """
+        :type text: str
+        :rtype: int
+        """
+
+        freq = {}   # stores the number of occcurences for the characters appearing in the text
+
+        for c in text:  # initilazing freq
+            if c not in freq:
+                freq[c] = 1
+            else:
+                freq[c] += 1
+        
+        if 'b' not in freq:   # 0 instance of the word balloon
+            return 0
+            
+        maxNumber = freq['b']
+
+        for c in ['a', 'l', 'o', 'n']:
+            
+            if c not in freq:   # 0 instance of the word balloon
+                return 0
+            
+            if c == 'l' or c == 'o':
+                temp = freq[c] // 2
+            else:
+                temp = freq[c]
+            
+            maxNumber = min(temp, maxNumber)
+        
+        return maxNumber
+
 
         
 
