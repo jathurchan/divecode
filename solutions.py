@@ -144,12 +144,8 @@ class Solution(object):
         intersection = []
 
         for num in nums2:   # build intersection while going through the numbers in nums2
-            if num in freq:
-                if freq[num] > 1:
-                    freq[num] -= 1
-                else:
-                    del freq[num]
-
+            if num in freq and freq[num] > 0:
+                freq[num] -= 1
                 intersection.append(num)
         
         return intersection
