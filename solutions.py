@@ -125,10 +125,42 @@ class Solution(object):
         
         return maxNumber
 
+    #   350. Intersection of Two Arrays II
+    def intersect(self, nums1, nums2):
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :rtype: List[int]
+        """
+
+        freq = {}
+
+        for num in nums1:   # store all numbers that appear in nums1 (with the number of occurences)
+            if num in freq:
+                freq[num] += 1
+            else:
+                freq[num] = 1
+        
+        intersection = []
+
+        for num in nums2:   # build intersection while going through the numbers in nums2
+            if num in freq:
+                if freq[num] > 1:
+                    freq[num] -= 1
+                else:
+                    del freq[num]
+
+                intersection.append(num)
+        
+        return intersection
+
+
+
 
         
 
 
 solution = Solution()
-#   print(solution.shiftingLetters("aaa", [1,2,3]))
-print(solution.numberOfArithmeticSlices([7,7,7,7,7]))
+# print(solution.shiftingLetters("aaa", [1,2,3]))
+# print(solution.numberOfArithmeticSlices([7,7,7,7,7]))
+print(solution.intersect([1,2,2,1], [2,2]))
