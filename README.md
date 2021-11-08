@@ -24,3 +24,4 @@ By solving and sharing
 - [130. Surrounded Regions](Solutions/130_SurroundedRegions.md)
 - [43. Multiply Strings](Solutions/43_MultiplyStrings.md)
 - [260. Single Number III](Solutions/260_SingleNumberIII.md)
+- [96 Unique Binary Search Trees](Solutions/96_UniqueBinarySearchTrees.md)
