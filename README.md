@@ -31,3 +31,9 @@ By solving and sharing
 - [203. Remove Linked List Elements](Solutions/203_RemoveLinkedListElements.md)
 - [739. Daily Temperatures](Solutions/739_DailyTemperatures.md)
 - [368. Largest Divisible Subset](Solutions/368_LargestDivisibleSubset.md)
+- [387. First Unique Character in a String](Python/387_FirstUniqueCharacterinaString.py)
+Runtime: 124 ms, faster than 74.32% of Python online submissions for First Unique Character in a String.
+Memory Usage: 14.4 MB, less than 31.30% of Python online submissions for First Unique Character in a String.
+- [215. Kth Largest Element in an Array](Python/215_KthLargestElementinanArray.py)
+Runtime: 48 ms, faster than 83.83% of Python online submissions for Kth Largest Element in an Array.
+Memory Usage: 14.5 MB, less than 16.89% of Python online submissions for Kth Largest Element in an Array.
