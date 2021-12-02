@@ -44,3 +44,9 @@ Memory Usage: 13.6 MB, less than 35.66% of Python online submissions for Merge T
 - [198. House Robber](Python/198_HouseRobber.py)
 Runtime: 24 ms, faster than 36.42% of Python online submissions for House Robber.
 Memory Usage: 13.4 MB, less than 45.46% of Python online submissions for House Robber.
+- [14. Longest Common Prefix](Python/14_LongestCommonPrefix.py)
+Runtime: 24 ms, faster than 61.75% of Python online submissions for Longest Common Prefix.
+Memory Usage: 13.8 MB, less than 39.78% of Python online submissions for Longest Common Prefix.
+- [328. Odd Even Linked List](Python/328_OddEvenLinkedList.py)
+Runtime: 32 ms, faster than 75.80% of Python online submissions for Odd Even Linked List.
+Memory Usage: 23.7 MB, less than 5.89% of Python online submissions for Odd Even Linked List.
