@@ -46,3 +46,14 @@ Runtime: 24 ms, faster than 61.75% of Python online submissions for Longest Comm
 
 Runtime: 32 ms, faster than 75.80% of Python online submissions for Odd Even Linked List. Memory Usage: 23.7 MB, less than 5.89% of Python online submissions for Odd Even Linked List.
 
++ [125. Valid Palindrome](Python/125_ValidPalindrome.py)
+
+Runtime: 44 ms, faster than 63.56% of Python online submissions for Valid Palindrome.
+
+Memory Usage: 15.1 MB, less than 35.50% of Python online submissions for Valid Palindrome.
+
++ [337. House Robber III](Python/337_HouseRobberIII.py)
+
+Runtime: 44 ms, faster than 45.96% of Python online submissions for House Robber III.
+
+Memory Usage: 17.4 MB, less than 83.16% of Python online submissions forHouse Robber III.
