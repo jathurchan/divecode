@@ -57,3 +57,21 @@ Memory Usage: 15.1 MB, less than 35.50% of Python online submissions for Valid 
 Runtime: 44 ms, faster than 45.96% of Python online submissions for House Robber III.
 
 Memory Usage: 17.4 MB, less than 83.16% of Python online submissions forHouse Robber III.
+
++ [1217. Minimum Cost to Move Chips to The Same Position](Python/1217_MinimumCosttoMoveChipstoTheSamePosition.py)
+
+Runtime: 16 ms, faster than 95.89% of Python online submissions for Minimum Cost to Move Chips to The Same Position.
+
+Memory Usage: 13.5 MB, less than 46.58% of Python online submissions forMinimum Cost to Move Chips to The Same Position.
+
++ [160. Intersection of Two Linked Lists](Python/160_IntersectionofTwoLinkedLists.py)
+
+Runtime: 192 ms, faster than 79.15% of Python online submissions forIntersection of Two Linked Lists.
+
+Memory Usage: 43.4 MB, less than 60.30% of Python online submissions forIntersection of Two Linked Lists.
+
++ [240. Search a 2D Matrix II](Python/240_Searcha2DMatrixII.py)
+
+Runtime: 140 ms, faster than 64.77% of Python online submissions for Search a 2D Matrix II.
+
+Memory Usage: 19.5 MB, less than 78.30% of Python online submissions forSearch a 2D Matrix II.
