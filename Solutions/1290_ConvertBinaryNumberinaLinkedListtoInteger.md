@@ -1,5 +1,4 @@
-1290. Convert Binary Number in a Linked List to Integer
-- # [1290. Convert Binary Number in a Linked List to Integer](Solutions/1290_ConvertBinaryNumberinaLinkedListtoInteger.md)
+# 1290. Convert Binary Number in a Linked List to Integer
 
 ## Description
 
