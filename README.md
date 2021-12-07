@@ -75,3 +75,7 @@ Memory Usage: 43.4 MB, less than 60.30% of Python online submissions forInterse
 Runtime: 140 ms, faster than 64.77% of Python online submissions for Search a 2D Matrix II.
 
 Memory Usage: 19.5 MB, less than 78.30% of Python online submissions forSearch a 2D Matrix II.
+
+
+- [1290. Convert Binary Number in a Linked List to Integer](Solutions/1290_ConvertBinaryNumberinaLinkedListtoInteger.md)
+
