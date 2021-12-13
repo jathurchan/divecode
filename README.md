@@ -80,4 +80,5 @@ Memory Usage: 19.5 MB, less than 78.30% of Python online submissions forSearch 
 - [169. Majority Element](Solutions/169_MajorityElement.md)
 - [1306. Jump Game III](Solutions/1306_JumpGameIII.md)
 - [76. Minimum Window Substring](Solutions/76_MinimumWindowSubstring.md)
-
+- [128. Longest Consecutive Sequence](Solutions/128_LongestConsecutiveSequence.md)
+- [149. Max Points on a Line](Solutions/149_MaxPointsonaLine.md)
