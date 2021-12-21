@@ -86,3 +86,18 @@ Memory Usage: 19.5 MB, less than 78.30% of Python online submissions forSearch 
 - [221. Maximal Square](Solutions/221_MaximalSquare.md)
 - [108. Convert Sorted Array to Binary Search Tree](Solutions/108_ConvertSortedArraytoBinarySearchTree.md)
 
+## Twitter
+
+- [17. Letter Combinations of a Phone Number](Twitter/17_LetterCombinationsofaPhoneNumber.md)
+- [56. Merge Intervals](Twitter/56_MergeIntervals.md)
+- [57. Insert Interval](Twitter/57_InsertInterval.md)
+- [78. Subsets](Twitter/78_Subsets.md)
+- [79. Word Search](Twitter/79_WordSearch.md)
+- [208. Implement Trie (Prefix Tree)](Twitter/208_ImplementTrie.md)
+- [253. Meeting Rooms II](Twitter/253_MeetingRoomsII.md)
+- [256. Paint House](Twitter/256_PaintHouse.md)
+- [453. Minimum Moves to Equal Array Elements](Twitter/453_MinimumMovestoEqualArrayElements.md)
+- [341. Flatten Nested List Iterator](Twitter/341_FlattenNestedListIterator.md)
+- [380. Insert Delete GetRandom O(1)](Twitter/380_InsertDeleteGetRandom.md)
+- [523. K-diff Pairs in an Array](Twitter/523_K-diffPairsinanArray.md)
+
