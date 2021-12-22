@@ -100,4 +100,7 @@ Memory Usage: 19.5 MB, less than 78.30% of Python online submissions forSearch 
 - [341. Flatten Nested List Iterator](Twitter/341_FlattenNestedListIterator.md)
 - [380. Insert Delete GetRandom O(1)](Twitter/380_InsertDeleteGetRandom.md)
 - [523. K-diff Pairs in an Array](Twitter/523_K-diffPairsinanArray.md)
+- [1817. Finding the Users Active Minutes](Twitter/1817_FindingtheUsersActiveMinutes.md)
+- [547. Number of Provinces](Twitter/567_NumberofProvinces.md)
+- [1244. Design a Leaderboard](Twitter/1244_DesignaLeaderboard.md)
 
