@@ -104,3 +104,17 @@ Memory Usage: 19.5 MB, less than 78.30% of Python online submissions forSearch 
 - [547. Number of Provinces](Twitter/567_NumberofProvinces.md)
 - [1244. Design a Leaderboard](Twitter/1244_DesignaLeaderboard.md)
 
+## HackerRank
+
+- [Plus Minus](HackerRank/1 Week Preparation Kit/PlusMinus.md)
+- [Min-Max Sum](HackerRank/1 Week Preparation Kit/Min-MaxSum.md)
+- [Time Conversion](HackerRank/1 Week Preparation Kit/TimeConversion.md)
+- [Lonely Integer](HackerRank/1 Week Preparation Kit/LonelyInteger.md)
+- [Diagonal Difference](HackerRank/1 Week Preparation Kit/DiagonalDifference.md)
+- [Counting Sort 1](HackerRank/1 Week Preparation Kit/CountingSort1.md)
+- [Zig Zag Sequence](HackerRank/1 Week Preparation Kit/ZigZagSequence.md)
+- [Tower Breakers](HackerRank/1 Week Preparation Kit/TowerBreakers.md)
+- [Caesar Cipher](HackerRank/1 Week Preparation Kit/CaesarCipher.md)
+- [Grid Challenge](HackerRank/1 Week Preparation Kit/GridChallenge.md)
+- [Recursive Digit Sum](HackerRank/1 Week Preparation Kit/RecursiveDigitSum.md)
+
