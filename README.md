@@ -85,6 +85,7 @@ Memory Usage: 19.5 MB, less than 78.30% of Python online submissions forSearch 
 - [149. Max Points on a Line](Solutions/149_MaxPointsonaLine.md)
 - [221. Maximal Square](Solutions/221_MaximalSquare.md)
 - [108. Convert Sorted Array to Binary Search Tree](Solutions/108_ConvertSortedArraytoBinarySearchTree.md)
+- [210. Course Schedule II](Solutions/210_CourseScheduleII.md)
 
 ## Twitter
 
