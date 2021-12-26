@@ -86,6 +86,7 @@ Memory Usage: 19.5 MB, less than 78.30% of Python online submissions forSearch 
 - [221. Maximal Square](Solutions/221_MaximalSquare.md)
 - [108. Convert Sorted Array to Binary Search Tree](Solutions/108_ConvertSortedArraytoBinarySearchTree.md)
 - [210. Course Schedule II](Solutions/210_CourseScheduleII.md)
+- [973. K Closest Points to Origin](Solutions/973_KClosestPointstoOrigin.md)
 
 ## Twitter
 
