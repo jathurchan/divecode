@@ -10,6 +10,12 @@ Solving Competitive Programming Problems on a Daily Basis.
 
 ## 🗂 List
 
+| **#** | **Title**                                                                                                         | **Solution** | **Runtime** *(faster than)* | **Usage** *(less than)* |
+| ----- | ----------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------- | ----------------------- |
+| 1143  | - [Longest Common Subsequence](https://github.com/jathurchan/LeetCode/blob/main/1143_LongestCommonSubsequence.md) |              |                             |                         |
+| 441   | - [Arranging Coins](https://github.com/jathurchan/LeetCode/blob/main/Solutions/441_ArrangingCoins.md)             |              |                             |                         |
+| 130   | - [Surrounded Regions](https://github.com/jathurchan/LeetCode/blob/main/Solutions/130_SurroundedRegions.md)       |              |                             |                         |
+
 - [1143. Longest Common Subsequence](https://github.com/jathurchan/LeetCode/blob/main/1143_LongestCommonSubsequence.md)
 - [441. Arranging Coins](https://github.com/jathurchan/LeetCode/blob/main/Solutions/441_ArrangingCoins.md)
 - [130. Surrounded Regions](https://github.com/jathurchan/LeetCode/blob/main/Solutions/130_SurroundedRegions.md)
@@ -119,4 +125,6 @@ Memory Usage: 19.5 MB, less than 78.30% of Python online submissions forSearch 
 - [Caesar Cipher](HackerRank/1 Week Preparation Kit/CaesarCipher.md)
 - [Grid Challenge](HackerRank/1 Week Preparation Kit/GridChallenge.md)
 - [Recursive Digit Sum](HackerRank/1 Week Preparation Kit/RecursiveDigitSum.md)
+
+
 
