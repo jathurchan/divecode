@@ -30,4 +30,3 @@ class Solution(object):
         
         # do not care about the numbers that do not get values above them in the array because initialized with 0
         return answers
-        

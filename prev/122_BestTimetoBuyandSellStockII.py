@@ -17,4 +17,3 @@ class Solution(object):
                 profit += (prices[i] - prices[i-1])
         
         return profit
-        
