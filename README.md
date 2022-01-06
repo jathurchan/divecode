@@ -10,8 +10,22 @@ Solving Competitive Programming Problems on a Daily Basis.
 
 ## 🗂 List
 
+### Top Interview Questions (Medium)
+
+| **#** | **Title**                        | **Solution**                                                              | **Runtime** *(faster than)* | **Usage** *(less than)* |
+| ----- | -------------------------------- | ------------------------------------------------------------------------- | --------------------------- | ----------------------- |
+| 73    | Set Matrix Zeroes                | [Python](top-interview-questions/medium/73_SetMatrixZeroes.py)            | 45.89%                      | 10.36%                  |
+| 19    | Remove Nth Node From End of List | [Python](top-interview-questions/medium/19_RemoveNthNodeFromEndofList.py) | 48.36%                      | 99.16%                  |
+
+### Top Interview Questions (Hard)
+
+| **#** | **Title**     | **Solution**                                            | **Runtime** *(faster than)* | **Usage** *(less than)* |
+| ----- | ------------- | ------------------------------------------------------- | --------------------------- | ----------------------- |
+| 140   | Word Break II | [Python](top-interview-questions/hard/140_WordBreak.py) | 99.77%                      | 41.32%                  |
+
 | **#** | **Title**                                                                                                                       | **Solution**                                                    | **Runtime** *(faster than)* | **Usage** *(less than)* |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------- | ----------------------- |
+| 162   | [Find Peak Element](162. Find Peak Element)                                                                                     | [Python](python/162_FindPeakElement.md)                         | 5.25%                       | 92.23%                  |
 | 1143  | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)                                         | [Python](python/1143_LongestCommonSubsequence.py)               | 35.34%                      | 82.33%                  |
 | 441   | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                                                               | [Python](python/441_ArrangingCoins.py)                          | 95.59%                      | 60.53%                  |
 | 130   | [Surrounded regions](https://leetcode.com/problems/surrounded-regions/)                                                         | [Python](python/130_SurroundedRegions.py)                       | 81.08%                      | 67.00%                  |
