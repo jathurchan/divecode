@@ -16,12 +16,17 @@ Solving Competitive Programming Problems on a Daily Basis.
 | ----- | -------------------------------- | ------------------------------------------------------------------------- | --------------------------- | ----------------------- |
 | 73    | Set Matrix Zeroes                | [Python](top-interview-questions/medium/73_SetMatrixZeroes.py)            | 45.89%                      | 10.36%                  |
 | 19    | Remove Nth Node From End of List | [Python](top-interview-questions/medium/19_RemoveNthNodeFromEndofList.py) | 48.36%                      | 99.16%                  |
+| 279   | Perfect Squares                  | [Python](top-interview-questions/medium/279_PerfectSquares.py)            | 15.44%                      | 67.90%                  |
+| 38    | Count and Say                    | [Python](top-interview-questions/medium/38_CountandSay.py)                | 25.91%                      | 72.05%                  |
 
 ### Top Interview Questions (Hard)
 
-| **#** | **Title**     | **Solution**                                            | **Runtime** *(faster than)* | **Usage** *(less than)* |
-| ----- | ------------- | ------------------------------------------------------- | --------------------------- | ----------------------- |
-| 140   | Word Break II | [Python](top-interview-questions/hard/140_WordBreak.py) | 99.77%                      | 41.32%                  |
+| **#** | **Title**                             | **Solution**                                            | **Runtime** *(faster than)* | **Usage** *(less than)* |
+| ----- | ------------------------------------- | ------------------------------------------------------- | --------------------------- | ----------------------- |
+| 140   | Word Break II                         | [Python](top-interview-questions/hard/140_WordBreak.py) | 99.77%                      | 41.32%                  |
+| 297   | Serialize and Deserialize Binary Tree | [Python](top-interview-questions/hard/140_WordBreak.py) | 5.37%                       | 8.64%                   |
+
+### Others
 
 | **#** | **Title**                                                                                                                       | **Solution**                                                    | **Runtime** *(faster than)* | **Usage** *(less than)* |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------- | ----------------------- |
