@@ -21,10 +21,11 @@ Solving Competitive Programming Problems on a Daily Basis.
 
 ### Top Interview Questions (Hard)
 
-| **#** | **Title**                             | **Solution**                                            | **Runtime** *(faster than)* | **Usage** *(less than)* |
-| ----- | ------------------------------------- | ------------------------------------------------------- | --------------------------- | ----------------------- |
-| 140   | Word Break II                         | [Python](top-interview-questions/hard/140_WordBreak.py) | 99.77%                      | 41.32%                  |
-| 297   | Serialize and Deserialize Binary Tree | [Python](top-interview-questions/hard/140_WordBreak.py) | 5.37%                       | 8.64%                   |
+| **#** | **Title**                             | **Solution**                                                          | **Runtime** *(faster than)* | **Usage** *(less than)* |
+| ----- | ------------------------------------- | --------------------------------------------------------------------- | --------------------------- | ----------------------- |
+| 140   | Word Break II                         | [Python](top-interview-questions/hard/140_WordBreak.py)               | 99.77%                      | 41.32%                  |
+| 297   | Serialize and Deserialize Binary Tree | [Python](top-interview-questions/hard/140_WordBreak.py)               | 5.37%                       | 8.64%                   |
+| 308   | Range Sum Query 2D - Mutable          | [Python](top-interview-questions/hard/308_RangeSumQuery2D-Mutable.py) | 25.00%                      | 71.43%                  |
 
 ### Others
 
