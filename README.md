@@ -29,6 +29,7 @@ Solving Competitive Programming Problems on a Daily Basis.
 | 308   | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)                        | [Python](top-interview-questions/hard/308_RangeSumQuery2D-Mutable.py)  | 25.00%                      | 71.43%                  |
 | 124   | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                   | [Python](top-interview-questions/hard/124_BinaryTreeMaximumPathSum.py) | 92.85%                      | 60.64%                  |
 | 295   | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                   | [Python](top-interview-questions/hard/295_FindMedianfromDataStream.py) | 82.41%                      | 60.53%                  |
+| 218   | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)                                     | [Python](top-interview-questions/hard/218_TheSkylineProblem.py)        | 5.32%                       | 87.81%                  |
 
 ### Top Interview Questions (Easy)
 
