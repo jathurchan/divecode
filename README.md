@@ -12,20 +12,30 @@ Solving Competitive Programming Problems on a Daily Basis.
 
 ### Top Interview Questions (Medium)
 
-| **#** | **Title**                        | **Solution**                                                              | **Runtime** *(faster than)* | **Usage** *(less than)* |
-| ----- | -------------------------------- | ------------------------------------------------------------------------- | --------------------------- | ----------------------- |
-| 73    | Set Matrix Zeroes                | [Python](top-interview-questions/medium/73_SetMatrixZeroes.py)            | 45.89%                      | 10.36%                  |
-| 19    | Remove Nth Node From End of List | [Python](top-interview-questions/medium/19_RemoveNthNodeFromEndofList.py) | 48.36%                      | 99.16%                  |
-| 279   | Perfect Squares                  | [Python](top-interview-questions/medium/279_PerfectSquares.py)            | 15.44%                      | 67.90%                  |
-| 38    | Count and Say                    | [Python](top-interview-questions/medium/38_CountandSay.py)                | 25.91%                      | 72.05%                  |
+| **#** | **Title**                                                                                           | **Solution**                                                              | **Runtime** *(faster than)* | **Usage** *(less than)* |
+| ----- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------- | ----------------------- |
+| 73    | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                               | [Python](top-interview-questions/medium/73_SetMatrixZeroes.py)            | 45.89%                      | 10.36%                  |
+| 19    | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](top-interview-questions/medium/19_RemoveNthNodeFromEndofList.py) | 48.36%                      | 99.16%                  |
+| 279   | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                   | [Python](top-interview-questions/medium/279_PerfectSquares.py)            | 15.44%                      | 67.90%                  |
+| 38    | [Count and Say](https://leetcode.com/problems/count-and-say/)                                       | [Python](top-interview-questions/medium/38_CountandSay.py)                | 25.91%                      | 72.05%                  |
+| 15    | [3 Sum](https://leetcode.com/problems/3sum/)                                                        | [Python](top-interview-questions/medium/15_3Sum.py)                       | 99.15%                      | 81.98%                  |
 
 ### Top Interview Questions (Hard)
 
-| **#** | **Title**                             | **Solution**                                                          | **Runtime** *(faster than)* | **Usage** *(less than)* |
-| ----- | ------------------------------------- | --------------------------------------------------------------------- | --------------------------- | ----------------------- |
-| 140   | Word Break II                         | [Python](top-interview-questions/hard/140_WordBreak.py)               | 99.77%                      | 41.32%                  |
-| 297   | Serialize and Deserialize Binary Tree | [Python](top-interview-questions/hard/140_WordBreak.py)               | 5.37%                       | 8.64%                   |
-| 308   | Range Sum Query 2D - Mutable          | [Python](top-interview-questions/hard/308_RangeSumQuery2D-Mutable.py) | 25.00%                      | 71.43%                  |
+| **#** | **Title**                                                                                                     | **Solution**                                                           | **Runtime** *(faster than)* | **Usage** *(less than)* |
+| ----- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------- | ----------------------- |
+| 140   | [Word Break II](https://leetcode.com/problems/word-break-ii/)                                                 | [Python](top-interview-questions/hard/140_WordBreak.py)                | 99.77%                      | 41.32%                  |
+| 297   | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Python](top-interview-questions/hard/140_WordBreak.py)                | 5.37%                       | 8.64%                   |
+| 308   | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)                        | [Python](top-interview-questions/hard/308_RangeSumQuery2D-Mutable.py)  | 25.00%                      | 71.43%                  |
+| 124   | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                   | [Python](top-interview-questions/hard/124_BinaryTreeMaximumPathSum.py) | 92.85%                      | 60.64%                  |
+| 295   | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                   | [Python](top-interview-questions/hard/295_FindMedianfromDataStream.py) | 82.41%                      | 60.53%                  |
+
+### Top Interview Questions (Easy)
+
+| **#** | **Title**                                                                                             | **Solution**                                                              | **Runtime** *(faster than)* | **Usage** *(less than)* |
+| ----- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------- | ----------------------- |
+| 1     | [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | [Python](top-interview-questions/easy/1_TwoSum.py)                        | 59.13%                      | 73.48%                  |
+| 167   | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](top-interview-questions/easy/167_TwoSumII-InputArrayIsSorted.py) | 11.49%                      | 89.53%                  |
 
 ### Others
 

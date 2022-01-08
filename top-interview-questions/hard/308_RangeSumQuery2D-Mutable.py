@@ -1,5 +1,7 @@
 class NumMatrix(object):
 
+    # Discovered for the first time 
+
     def __init__(self, matrix):
         """
         :type matrix: List[List[int]]
