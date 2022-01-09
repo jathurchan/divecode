@@ -19,6 +19,8 @@ Solving Competitive Programming Problems on a Daily Basis.
 | 279   | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)                                   | [Python](top-interview-questions/medium/279_PerfectSquares.py)            | 15.44%                      | 67.90%                  |
 | 38    | [Count and Say](https://leetcode.com/problems/count-and-say/)                                       | [Python](top-interview-questions/medium/38_CountandSay.py)                | 25.91%                      | 72.05%                  |
 | 15    | [3 Sum](https://leetcode.com/problems/3sum/)                                                        | [Python](top-interview-questions/medium/15_3Sum.py)                       | 99.15%                      | 81.98%                  |
+| 33    | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)     | [Python](top-interview-questions/medium/33_SearchinRotatedSortedArray.py) | 22.33%                      | 23.51%                  |
+| 172   | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)               | [Python](top-interview-questions/medium/172_FactorialTrailingZeroes.py)   | 18.72%                      | 17.52%                  |
 
 ### Top Interview Questions (Hard)
 
