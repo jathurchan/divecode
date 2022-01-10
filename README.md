@@ -21,6 +21,8 @@ Solving Competitive Programming Problems on a Daily Basis.
 | 15    | [3 Sum](https://leetcode.com/problems/3sum/)                                                        | [Python](top-interview-questions/medium/15_3Sum.py)                       | 99.15%                      | 81.98%                  |
 | 33    | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)     | [Python](top-interview-questions/medium/33_SearchinRotatedSortedArray.py) | 22.33%                      | 23.51%                  |
 | 172   | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)               | [Python](top-interview-questions/medium/172_FactorialTrailingZeroes.py)   | 18.72%                      | 17.52%                  |
+| 371   | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                           | [Python](top-interview-questions/medium/371_SumofTwoIntegers.py)          | 81.80%                      | 47.37%                  |
+| 146   | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                               | [Python](top-interview-questions/medium/146_LRUCache.py)                  | 27.74%                      | 83.31%                  |
 
 ### Top Interview Questions (Hard)
 
@@ -32,6 +34,7 @@ Solving Competitive Programming Problems on a Daily Basis.
 | 124   | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                   | [Python](top-interview-questions/hard/124_BinaryTreeMaximumPathSum.py) | 92.85%                      | 60.64%                  |
 | 295   | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)                   | [Python](top-interview-questions/hard/295_FindMedianfromDataStream.py) | 82.41%                      | 60.53%                  |
 | 218   | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)                                     | [Python](top-interview-questions/hard/218_TheSkylineProblem.py)        | 5.32%                       | 87.81%                  |
+| 76    | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)                           | [Python](top-interview-questions/hard/76_MinimumWindowSubstring.py)    | 28.05%                      | 66.27%                  |
 
 ### Top Interview Questions (Easy)
 
