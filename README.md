@@ -25,6 +25,8 @@ Solving Competitive Programming Problems on a Daily Basis.
 | 146   | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                             | [Python](top-interview-questions/medium/146_LRUCache.py)                          | 27.74%                      | 83.31%                  |
 | 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](top-interview-questions/medium/236_LowestCommonAncestorofaBinaryTree.py) | 8.59%                       | 31.89%                  |
 | 131   | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                 | [Python](top-interview-questions/medium/131_PalindromePartioning.py)              | 63.11%                      | 50.79%                  |
+| 179   | [Largest Number](https://leetcode.com/problems/largest-number/)                                                   | [Python](top-interview-questions/medium/179_LargestNumber.py)                     | 44.76%                      | 30.59%                  |
+| 200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                             | [Python](top-interview-questions/medium/200_NumberofIslands.py)                   | 66.01%                      | 99.91%                  |
 
 ### Top Interview Questions (Hard)
 
