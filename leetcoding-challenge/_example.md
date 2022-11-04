@@ -10,9 +10,8 @@ memory usage: []    # less than (in %)
 
 
 ## Approach 1:
-Time complexity: `O()`
+Time complexity: `O()`    |    Space complexity: `O()`
 
-Space complexity: `O()`
 
 ``` python
 
