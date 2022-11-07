@@ -48,7 +48,7 @@ Explanation: It is better not to apply any change.
 - `1 <= num <= 104`
 - `num` consists of only `6` and `9` digits.
 
-## Approach 1:
+## Approach 1: Convert number to list of characters
 Time complexity: `O(n)`    |    Space complexity: `O(n)`
 where n is the number of digits in `num`
 
