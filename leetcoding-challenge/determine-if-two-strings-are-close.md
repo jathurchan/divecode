@@ -56,8 +56,8 @@ Apply Operation 2: "baaccc" -> "abbccc"
 - `word1` and `word2` contain only lowercase English letters.
 
 ## Approach 1: Using hashmap (compare keys and values)
-Time complexity: `O()`    |    Space complexity: `O()`
-
+Time complexity: `O(n+p)`    |    Space complexity: `O(n+p)`
+where `n` is the length of `word1`and `p` is the length of `word2`
 
 ``` python
 from collections import defaultdict
