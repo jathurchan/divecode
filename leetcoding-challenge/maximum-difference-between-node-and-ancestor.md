@@ -3,8 +3,8 @@ date: 2022.11.17
 title: 1026. Maximum Difference Between Node and Ancestor
 difficulty:
     - medium
-runtime: 27.53 # faster than (in %)
-memory usage: 13.36    # less than (in %)
+runtime: 82.9 # faster than (in %)
+memory usage: 20.02    # less than (in %)
 ---
 ## Description
 Given the `root` of a binary tree, find the maximum value `v` for which there exist **different** nodes `a` and `b` where `v = |a.val - b.val|` and `a` is an ancestor of `b`.
