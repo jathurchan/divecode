@@ -41,7 +41,7 @@ Explanation: Remove the red edge and get 2 binary trees with sum 15 and 6.Their 
 - `1 <= Node.val <= 104`
 
 ## Approach 1: Store subtree sums and sum of all nodes above and on the other side of the ancestors
-Time complexity: `O(n)`    |    Space complexity: `O(1)`
+Time complexity: `O(n)`    |    Space complexity: `O(n)`
 where `n` is the number of nodes in `root`.
 
 ``` python
