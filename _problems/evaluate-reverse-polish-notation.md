@@ -9,9 +9,9 @@ memory usage: 22.27    # less than (in %)
 ## Description
 
 
-## Approach 1:
-Time complexity: `O()`    |    Space complexity: `O()`
-
+## Approach 1: Stack
+Time complexity: `O(n)`    |    Space complexity: `O(n)`
+where `n` is the length of `tokens`.
 
 ``` python
 class Solution:
