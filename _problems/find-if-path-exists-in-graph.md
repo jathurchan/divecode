@@ -3,8 +3,8 @@ date: 2022.11.17
 title: 1971. Find if Path Exists in Graph
 difficulty:
     - medium
-runtime: 31.97 # faster than (in %)
-memory usage: 16.56    # less than (in %)
+runtime: 75.79 # faster than (in %)
+memory usage: 13.62    # less than (in %)
 ---
 ## Description
 There is a bi-directional graph with n vertices, where each vertex is labeled from 0 to n - 1 (inclusive). The edges in the graph are represented as a 2D integer array edges, where each edges[i] = [ui, vi] denotes a bi-directional edge between vertex ui and vertex vi. Every vertex pair is connected by at most one edge, and no vertex has an edge to itself.
