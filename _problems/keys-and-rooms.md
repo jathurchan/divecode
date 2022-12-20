@@ -3,8 +3,8 @@ date: 2022.11.17
 title: 841. Keys and Rooms
 difficulty:
     - medium
-runtime: 11.94 # faster than (in %)
-memory usage: 37.42    # less than (in %)
+runtime: 71.6 # faster than (in %)
+memory usage: 87.64    # less than (in %)
 ---
 ## Description
 There are `n` rooms labeled from `0` to `n - 1` and all the rooms are locked except for room `0`. Your goal is to visit all the rooms. However, you cannot enter a locked room without having its key.
