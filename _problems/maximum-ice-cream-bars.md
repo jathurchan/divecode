@@ -3,8 +3,8 @@ date: 2023.01.06
 title: 1833. Maximum Ice Cream Bars
 difficulty:
     - medium
-runtime: 35.8 # faster than (in %)
-memory usage: 61.26    # less than (in %)
+runtime: 95.51 # faster than (in %)
+memory usage: 43.35    # less than (in %)
 ---
 ## Description
 It is a sweltering summer day, and a boy wants to buy some ice cream bars.
@@ -64,4 +64,19 @@ class Solution:
             coins -= costs[i];
             i += 1
         return maxNOfBars
+```
+
+``` cpp
+class Solution {
+public:
+    int maxIceCream(vector<int>& costs, int coins) {
+        std::sort(costs.begin(), costs.end());
+        int i = 0;
+        while ((i < costs.size()) && (costs[i] <= coins)) {
+            coins -= costs[i];
+            i++;
+        }
+        return i;
+    }
+};
 ```
