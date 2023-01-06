@@ -57,13 +57,11 @@ where `n` is the number of ice cream bars.
 class Solution:
     def maxIceCream(self, costs: List[int], coins: int) -> int:
         costs.sort()
-        maxNOfBars = 0
         i = 0
         while i < len(costs) and costs[i] <= coins:
-            maxNOfBars += 1
             coins -= costs[i];
             i += 1
-        return maxNOfBars
+        return i
 ```
 
 ``` cpp
