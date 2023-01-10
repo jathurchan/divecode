@@ -81,9 +81,6 @@ public:
 };
 ```
 
-
-
-
 ## Approach 2: Iteration
 Time complexity: `O(n)`    |    Space complexity: `O(n)`
 where 'n' is the number of nodes.
