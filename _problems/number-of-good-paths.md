@@ -3,8 +3,8 @@ date: 2023.01.15
 title: 2421. Number of Good Paths
 difficulty:
     - hard
-runtime: LTE # faster than (in %)
-memory usage: LTE    # less than (in %)
+runtime: TLE # faster than (in %)
+memory usage: TLE    # less than (in %)
 ---
 ## Description
 There is a tree (i.e. a connected, undirected graph with no cycles) consisting of `n` nodes numbered from `0` to `n - 1` and exactly `n - 1` edges.
