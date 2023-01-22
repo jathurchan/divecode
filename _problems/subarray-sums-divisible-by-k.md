@@ -1,5 +1,5 @@
 ---
-date: 2023=01-19
+date: 2023.01.19
 title: 974. Subarray Sums Divisible by K
 difficulty:
     - medium
