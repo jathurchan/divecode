@@ -3,8 +3,8 @@ date: 2023.01.24
 title: 909. Snakes and Ladders
 difficulty:
     - medium
-runtime: 93.18 # faster than (in %)
-memory usage: 33.67    # less than (in %)
+runtime: 33.67 # faster than (in %)
+memory usage: 93.18    # less than (in %)
 ---
 ## Description
 You are given an `n x n` integer matrix `board` where the cells are labeled from `1` to `n2` in a **[Boustrophedon style](https://en.wikipedia.org/wiki/Boustrophedon)** starting from the bottom left of the board (i.e. `board[n - 1][0]`) and alternating direction each row.
