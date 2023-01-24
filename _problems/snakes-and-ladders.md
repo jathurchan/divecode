@@ -101,7 +101,7 @@ class Solution:
         return self.ans
 ```
 
-## Approach 2: BFS
+## Approach 2: BFS (Version 2021)
 Time complexity: `O(n^2)`    |    Space complexity: `O(n^2)`
 where `n` is the length of the board.
 
