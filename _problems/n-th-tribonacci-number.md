@@ -3,8 +3,8 @@ date: 2023.01.30
 title: 1137. N-th Tribonacci Number
 difficulty:
     - easy
-runtime: 95.87 # faster than (in %)
-memory usage: 60.55    # less than (in %)
+runtime: 60.55 # faster than (in %)
+memory usage: 95.87    # less than (in %)
 languages:
     - python
 ---
