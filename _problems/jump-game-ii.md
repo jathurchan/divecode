@@ -3,8 +3,8 @@ date: 2023.02.08
 title: 45. Jump Game II
 difficulty:
     - medium
-runtime: [] # faster than (in %)
-memory usage: []    # less than (in %)
+runtime: 11.72 # faster than (in %)
+memory usage: 54.98    # less than (in %)
 ---
 ## Description
 You are given a **0-indexed** array of integers `nums` of length `n`. You are initially positioned at `nums[0]`.
