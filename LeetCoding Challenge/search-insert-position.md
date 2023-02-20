@@ -3,8 +3,8 @@ date: 2022.11.18
 title: 35. Search Insert Position
 difficulty:
     - easy
-runtime: 51.15 # faster than (in %)
-memory usage: 39.82    # less than (in %)
+runtime: 92.31 # faster than (in %)
+memory usage: 31.55    # less than (in %)
 ---
 ## Description
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
